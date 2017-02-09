@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantosLivrosLiDesktop", "QuantosLivrosLiDesktop\QuantosLivrosLiDesktop.csproj", "{AE967CDD-E8C5-4D21-BF38-3D94D962BF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaugeProject1", "GaugeProject1\GaugeProject1.csproj", "{BF172601-FD75-4263-A428-E643F5173275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE967CDD-E8C5-4D21-BF38-3D94D962BF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE967CDD-E8C5-4D21-BF38-3D94D962BF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE967CDD-E8C5-4D21-BF38-3D94D962BF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE967CDD-E8C5-4D21-BF38-3D94D962BF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF172601-FD75-4263-A428-E643F5173275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF172601-FD75-4263-A428-E643F5173275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF172601-FD75-4263-A428-E643F5173275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF172601-FD75-4263-A428-E643F5173275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

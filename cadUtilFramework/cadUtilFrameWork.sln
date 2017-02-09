@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controller\Controlador.csproj", "{ABEEC331-DAF0-4E53-984E-700651C85450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Model\Modelo.csproj", "{EE132473-29DD-4097-9B17-A59083996E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj", "{F58F8496-67DC-4DA0-9053-2B8B55E8449A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABEEC331-DAF0-4E53-984E-700651C85450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEEC331-DAF0-4E53-984E-700651C85450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEEC331-DAF0-4E53-984E-700651C85450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEEC331-DAF0-4E53-984E-700651C85450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE132473-29DD-4097-9B17-A59083996E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE132473-29DD-4097-9B17-A59083996E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE132473-29DD-4097-9B17-A59083996E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE132473-29DD-4097-9B17-A59083996E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58F8496-67DC-4DA0-9053-2B8B55E8449A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58F8496-67DC-4DA0-9053-2B8B55E8449A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58F8496-67DC-4DA0-9053-2B8B55E8449A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58F8496-67DC-4DA0-9053-2B8B55E8449A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
